@@ -1,0 +1,62 @@
+[
+    {
+        "title" : "my update Post",
+        "content" : "my first post! \r\n\r\nThis is exciting...",
+        "user_id" : 1
+
+    },
+    {
+        "title" : "The Importance of programming",
+        "content" : "programming demand significant sacrifice and hard work...",
+        "user_id" : 2
+
+    },
+    {
+        "title" : "Wisdom",
+        "content" : "Close the window that hurts you, no matter how beautiful the view is...",
+        "user_id" : 1
+
+    },
+    {
+        "title" : "Django developer",
+        "content" : "When life  gives, you errors debug and move on...",
+        "user_id" : 2
+
+    },
+    {
+        "title" : "Testing & Debugging",
+        "content" : "Don't  write better error messages write code that doesn't need them",
+        "user_id" : 1
+
+    },
+    {
+        "title" : "Success Rule 1",
+        "content" : "Do not waste another year doing the same mistakes",
+        "user_id" : 1
+
+    },
+    {
+        "title" : "my update Post two",
+        "content" : "my first post! \r\n\r\nThis is exciting",
+        "user_id" : 1
+
+    },
+    {
+        "title" : "Dream",
+        "content" : "Create somthing that doesn't exists",
+        "user_id" : 2
+
+    },
+    {
+        "title" : "Educational Motivation",
+        "content" : "Eduction is the most powerful weapon you can use to change the world!",
+        "user_id" : 2
+
+    },
+    {
+        "title" : "Personality",
+        "content" : "He is not brightest of the candle in the room but he burns longer than anyone else",
+        "user_id" : 1
+
+    }
+]
