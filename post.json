@@ -37,7 +37,7 @@
     },
     {
         "title" : "my update Post two",
-        "content" : "my first post! \r\n\r\nThis is exciting",
+        "content" : "my first post! This is exciting",
         "user_id" : 1
 
     },
